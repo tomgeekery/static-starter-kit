@@ -1,0 +1,5 @@
+node_modules
+
+# Ignore compiled js and css files
+web/*.js
+web/*.css
